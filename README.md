@@ -116,4 +116,4 @@ formules spécifiques (pour la température).
 
 ## 👨‍💻 Auteur
 Réalisé par salah eddine barri en C.
-comme exercice pratique d’implémentation de jeu en console.  
+ 
