@@ -112,7 +112,8 @@ formules spécifiques (pour la température).
         Vers: cup
         2.0000 L = 8.4535 cup
 
-## 📜 Licence
+---
 
-Ce projet est open-source et libre d'utilisation pour l'apprentissage et
-la pratique du C.
+## 👨‍💻 Auteur
+Réalisé par salah eddine barri en C.
+comme exercice pratique d’implémentation de jeu en console.  
